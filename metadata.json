@@ -1,0 +1,6 @@
+{
+  "name": "Second Brain Lag",
+  "description": "An interactive, predictive mental state analyzer that stops distraction before your attention collapses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
